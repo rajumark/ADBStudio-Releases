@@ -1,2 +1,0 @@
-# ADBStudio-Releases
-Repository for release software version windows.
