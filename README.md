@@ -1,4 +1,8 @@
 # ADBStudio-Releases
-Repository for release software version.
-windows 
-https://drive.google.com/drive/folders/18joWUJPdgxtRJ_LYpG8MMXnw4AiDfkUm
+ADBStudio is GUI based software to do productive work.
+
+| Operating System | Download                                                |
+|------------------|---------------------------------------------------------|
+| Windows          | [Download](https://github.com/rajumark/ADBStudio-Releases/tree/main/windows) |
+| Mac              | Coming soon                                             |
+| Linux            | Coming soon     |

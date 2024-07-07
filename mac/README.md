@@ -1,2 +1,2 @@
 # ADBStudio-Releases
-Repository for release software version macos.
+Coming soon... for Mac OS
