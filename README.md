@@ -1,4 +1,4 @@
-# ADBStudio-Releases
+# ADBStudio
 ADBStudio is GUI based software to do productive work.
 
 | Operating System | Download                                                |
