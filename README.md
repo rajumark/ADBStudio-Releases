@@ -5,5 +5,5 @@ We love to here : [Feedback](https://forms.gle/jcvMcKu4iyqdeYp29)
 | Operating System | Download                                                |
 |------------------|---------------------------------------------------------|
 | Windows          | [Download](https://github.com/rajumark/ADBStudio-Releases/tree/main/windows) |
-| Mac              | Coming soon                                             |
+| Mac              | [Download](https://github.com/rajumark/ADBStudio-Releases/tree/main/mac) |
 | Linux            | Coming soon     |
